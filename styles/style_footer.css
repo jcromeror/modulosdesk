@@ -1,0 +1,87 @@
+{
+	padding: 0;
+	margin: 0;
+}
+
+.principal_footer{
+	background: #f6f6f6;
+	font-family: 'Muli', sans-serif;
+	color: #43525a;
+	position: relative;
+	bottom: 50px;
+	float: left;
+	width: 100%;
+}
+
+.div_img_footer{
+	float: left;
+	width: 20%;
+}
+
+.img_logo_footer{
+	margin-left: 131px;
+    margin-top: 69px;
+}
+
+.div_separator{
+	float: left;
+	width: 5%;
+}
+
+.separator{
+    display: block;
+    width: 1px;
+    background-color: #43525a;
+    height: 177px;
+    margin-top: 64px;
+    margin-left: 19px;
+}
+
+
+.table_footer{
+	float: left;
+	width: 70%;
+}
+
+.table_footer a{
+	text-decoration:none;	
+	font-family: 'Muli', sans-serif;
+	font-size: 12px;
+	color: #43525a;
+}
+
+.table_footer td{
+	font-family: 'Muli', sans-serif;
+	color: #43525a;
+	font-size: 11px;
+	width: 146px;
+    height: 30px;	
+}
+
+.table_footer a:hover { 
+    color: #28a5be;
+    text-decoration: underline;
+}
+
+table{
+	margin-top: 54px;
+}
+
+.copyright{
+	font-family: 'Muli', sans-serif;
+	color: #43525a;
+	font-size: 11px;
+	margin-top: 50px;
+}
+
+.proud_member{
+	font-family: 'Muli', sans-serif;
+	color: #43525a;
+	font-size: 11px;
+	margin-left: 252px;
+}
+
+.img_business{
+	margin-left: 160px;
+}
+

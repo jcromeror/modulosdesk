@@ -1,0 +1,36 @@
+{
+	padding: 0;
+	margin: 0;
+}
+
+.article_8{
+	background: #beeadf;
+    font-family: 'Muli', sans-serif;
+	color: #43525a;
+	position: relative;
+	bottom: 50px;
+	float: left;
+	width: 100%;
+	height: 510px;
+}
+
+.article_8 div>h1{
+	font-size: 32px;
+    text-align: center;
+    margin-top: 72px;
+}
+
+.article_8 div>p{
+	font-size: 14px;
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    color: #43525a;
+    width: 62%;
+    margin-left: 19%;
+    margin-bottom: 44px;
+}
+
+.article_8_img{
+	display:block;
+	margin:auto;
+}

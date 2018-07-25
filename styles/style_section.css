@@ -1,0 +1,64 @@
+{
+	padding: 0;
+	margin: 0;
+}
+
+.text_desktop_image{
+	font-family: "Muli", sans-serif;
+	color: #43525a;
+	/*background:#CAA59D;*/
+	width: 30%;
+	height: 549px;
+}
+
+.text_desktop_image h1{
+	font-size: 29px;
+    margin: 102px;
+}
+
+.text_desktop_image p{
+	margin-top: -79px;
+    margin-left: 104px;
+}
+
+.desktop_image{
+	/*background:#B8CE7B;*/
+	width: 70%;
+}
+
+.article_1 div{
+	float:left;
+	font-family: 'Muli', sans-serif;
+}
+
+#desktop_image{
+	width: 100%;
+	height: 100%;
+}
+
+.button{
+	margin-left: 102px;
+	margin-top: 20px;
+}
+
+.button_configure{
+	width: 162px;
+    height: 65px;
+    background: #28a5be;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    position: relative;
+    z-index: 2;
+}
+
+.button_learn{
+	width: 131px;
+    height: 44px;
+    background: #2d2d2d;
+    color: #fff;
+    border: none;
+    position: relative;
+    right: 21px;
+}
+

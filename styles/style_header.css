@@ -1,0 +1,70 @@
+body{
+	background:#f2f2f2;
+}
+
+header div{
+	float: left
+	
+}
+
+.header_left{
+	/*background: #CAA59D;*/
+	height: 76px;
+	width: 33%
+}
+
+.header_left a{
+	text-decoration:none;
+	color:black;	
+}
+
+#header_left{
+	font-family: 'Roboto Mono', monospace;
+	padding-left: 100px;
+    padding-top: 30px;
+    font-size: 15px;
+    color: black;
+    text-decoration:none;
+
+}
+
+#header_left a:hover { 
+    color: #28a5be;
+    text-decoration: underline;
+}
+
+.div_logo{
+	text-align: center;
+	/*background: yellow;*/
+	width: 28%
+}
+
+.header_right{
+	width: 38%;
+	/*background: red;*/
+	height: 76px;
+}
+
+.header_right a{
+	text-decoration:none;
+	color:black;
+}
+
+#header_right{
+	font-family: 'Roboto Mono', monospace;
+	padding-left: 14px;
+    padding-top: 30px;
+    font-size: 15px;
+    color: black;
+    text-decoration:none;
+
+}
+
+#header_right i{
+    font-size: 16px;
+}
+
+#header_right a:hover { 
+    color: #28a5be;
+    text-decoration: underline;
+}

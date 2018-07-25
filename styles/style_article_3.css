@@ -1,0 +1,62 @@
+{
+	padding: 0;
+	margin: 0;
+}
+
+.article_3{
+	bottom: 50px;
+    float: left;
+    width: 100%;
+    position: relative;
+    font-family: 'Muli', sans-serif;
+	color: #43525a;
+}
+
+.article_3 div{
+	float: left;
+}
+
+.article_3 h1{
+	font-size: 32px;
+    text-align: center;
+}
+
+.text_article_3{
+	font-size: 14px;
+    text-align: center;
+    width: 67%;
+    margin-left: 16%;
+}
+
+.create_configuration{
+	width: 33%;
+}
+
+.assemble_enjoy{
+	width: 33%;
+}
+
+.reconfigure_upgrade{
+	width: 34%;
+}
+
+.article_3_img{
+    display:block;
+	margin:auto;
+}
+
+.article_3 div>h3{
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+	color: #43525a;
+}
+
+.article_3 div>p{
+	font-size: 14px;
+	text-align: center;
+	font-family: 'Muli', sans-serif;
+	color: #43525a;
+	width: 82%;
+    margin-left: 7%;
+}
+
